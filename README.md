@@ -33,7 +33,7 @@
 - **PsychoPy:** Plataforma central para la estructuración de pruebas conductuales y cognitivas de precisión milisegunda.
 - **pandas:** Librería fundamental para la manipulación, limpieza y análisis de estructuras de datos cuantitativos.
 
-📫 **Contacto:** ¿Quieres colaborar o charlar sobre investigación y código? Búscame o conéctate conmigo.
+📫 **Contacto:** ¿Quieres colaborar o charlar sobre investigación y código? [Escríbeme](mailto:teofiloojeda707@gmail.com).
 
 </details>
 
@@ -43,7 +43,7 @@
 ### 🧠 Current Research Focus
 - 🔬 **Experimental Paradigms:** Design and execution of custom experiments using **PsychoPy**.
 - 📊 **Quantitative Tools:** Python script development for psychometric reliability, item variance, and applied statistics.
-- 💻 **Environment:** Open-source; I rather knowing what I am using.
+- 💻 **Environment:** Open source; I'd rather know what I'm using.
 
 ### 🛠️ Tech Stack & Immediate Tools
 
@@ -63,7 +63,7 @@
 - **PsychoPy:** Central platform for structuring millisecond-accurate behavioral and cognitive tests.
 - **pandas:** Essential library for quantitative data manipulation, cleaning, and analysis.
 
-📫 **Contact:** Want to collaborate or talk about research and code? Reach out to me.
+📫 **Contact:** Want to collaborate or talk about research and code? [Drop me an email](mailto:teofiloojeda707@gmail.com).
 
 </details>
 
